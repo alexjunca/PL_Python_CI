@@ -57,7 +57,6 @@ Jinja2==2.11.2
 jmespath==0.10.0
 knack==0.3.3
 MarkupSafe==1.1.1
-mercurial==3.7.3
 monotonic==1.5
 msrest==0.6.1
 msrestazure==0.5.0
