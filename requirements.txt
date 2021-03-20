@@ -53,7 +53,7 @@ importlib-metadata==1.6.0
 ipaddress==1.0.23
 isodate==0.6.0
 itsdangerous==1.1.0
-Jinja2==2.11.2
+Jinja2==2.11.3
 jmespath==0.10.0
 knack==0.3.3
 MarkupSafe==1.1.1
